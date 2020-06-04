@@ -2,6 +2,8 @@
 #include <conio.h>
 #include <string>
 using namespace std;
+/* before run this aplication make sure you delet comment on this aplication ,example (/*) and (*/)  */
+//Assessment test 1//
 int main()
 {
    string nama[10],region[10];
@@ -78,7 +80,7 @@ int main()
 	}
 }
 
-
+//Assessment test 2//
 /*int main ()
 {
     int i,b,x;
@@ -96,6 +98,7 @@ int main()
 }*/
 
 /*
+//Assessment test 3//
 int main(){
 
 int r,l,a,p,t;
